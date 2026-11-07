@@ -1,1 +1,0 @@
-print("Hello, welcome to the fictional meme generator!")
